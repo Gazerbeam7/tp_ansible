@@ -1,0 +1,5 @@
+name: Server FTP
+    hosts: tpdevops_1
+      apt:
+        name: apache2
+        state: present

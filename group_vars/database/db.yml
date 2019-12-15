@@ -1,0 +1,5 @@
+web:
+  hosts:
+    tpdevops_2:
+  vars:
+    ansible_host:
